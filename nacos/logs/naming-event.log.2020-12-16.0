@@ -1,0 +1,20 @@
+2020-12-16 13:11:53,610 INFO {POS} {IP-DISABLED} valid: 172.16.50.183:8016@DEFAULT@DEFAULT_GROUP@@loit-template, region: unknown, msg: client timeout after 15000, last beat: 1608094810678
+
+2020-12-16 13:11:53,891 INFO DEFAULT_GROUP@@loit-template {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.16.50.183:8016:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-12-16 13:11:53,891 INFO [IP-UPDATED] namespace: f354e539-153c-4fc1-b10a-8db45279fce1, service: DEFAULT_GROUP@@loit-template, ips: 
+
+2020-12-16 13:11:54,103 INFO DEFAULT_GROUP@@loit-template {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.16.50.183:8016:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-16 13:11:54,103 INFO [IP-UPDATED] namespace: f354e539-153c-4fc1-b10a-8db45279fce1, service: DEFAULT_GROUP@@loit-template, ips: 172.16.50.183:8016_true,
+
+2020-12-16 20:46:50,303 INFO {POS} {IP-DISABLED} valid: 172.16.50.183:8016@DEFAULT@DEFAULT_GROUP@@loit-template, region: unknown, msg: client timeout after 15000, last beat: 1608111920284
+
+2020-12-16 20:46:50,738 INFO DEFAULT_GROUP@@loit-template {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.16.50.183:8016:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-12-16 20:46:50,738 INFO [IP-UPDATED] namespace: f354e539-153c-4fc1-b10a-8db45279fce1, service: DEFAULT_GROUP@@loit-template, ips: 
+
+2020-12-16 20:46:52,188 INFO DEFAULT_GROUP@@loit-template {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.16.50.183:8016:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-16 20:46:52,188 INFO [IP-UPDATED] namespace: f354e539-153c-4fc1-b10a-8db45279fce1, service: DEFAULT_GROUP@@loit-template, ips: 172.16.50.183:8016_true,
+
