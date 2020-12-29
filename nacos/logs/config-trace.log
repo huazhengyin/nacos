@@ -1,0 +1,10 @@
+2020-12-29 14:55:12,997|172.16.50.183|chris|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:55:13,033|172.16.50.183|chris.yaml|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:55:13,043|172.16.50.183|chris-dev.yaml|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:55:30,381|172.16.50.183|loit-template-sentinel|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:55:30,470|172.16.50.183|loit-template-degrade-rules|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:56:06,158|172.16.50.183|loit-template-demo22|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:56:06,170|172.16.50.183|loit-template-demo22.yaml|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:56:06,176|172.16.50.183|loit-template-demo22-dev.yaml|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:56:24,452|172.16.50.183|loit-template-demo22-sentinel|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-29 14:56:24,526|172.16.50.183|loit-template-demo22-degrade-rules|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1

@@ -1,0 +1,34 @@
+2020-12-29 14:54:49,639 INFO initializing Raft sub-system
+
+2020-12-29 14:54:49,640 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-12-29 14:54:49,641 INFO raft notifier started
+
+2020-12-29 14:54:49,652 INFO cache loaded, datum count: 0, current term: 0
+
+2020-12-29 14:54:49,653 INFO finish to load data from disk, cost: 13 ms.
+
+2020-12-29 14:54:49,656 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-12-29 14:54:49,483 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"172.16.50.183","key":"172.16.50.183:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-12-29 14:54:49,665 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"172.16.50.183","key":"172.16.50.183:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-12-29 14:54:51,591 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-12-29 14:54:51,605 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-12-29 14:54:54,470 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"172.16.50.183","key":"172.16.50.183:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-12-29 14:54:54,470 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"172.16.50.183","key":"172.16.50.183:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-12-29 14:54:54,470 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"172.16.50.183","key":"172.16.50.183:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-12-29 14:54:57,475 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"172.16.50.183","key":"172.16.50.183:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-12-29 14:54:57,660 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"172.16.50.183:8848","leaderDueMs":19389,"state":"FOLLOWER","term":0,"voteFor":""}, term: 0
+
+2020-12-29 14:55:30,765 INFO add listener: com.alibaba.nacos.naming.iplist.f354e539-153c-4fc1-b10a-8db45279fce1##DEFAULT_GROUP@@loit-template
+
+2020-12-29 14:56:24,775 INFO add listener: com.alibaba.nacos.naming.iplist.f354e539-153c-4fc1-b10a-8db45279fce1##DEFAULT_GROUP@@loit-template-demo22
+
