@@ -1,5 +1,0 @@
-2020-12-14 09:32:46,622|172.16.50.183|chris|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
-2020-12-14 09:32:46,704|172.16.50.183|chris.yaml|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
-2020-12-14 09:32:46,756|172.16.50.183|chris-dev.yaml|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
-2020-12-14 09:33:08,997|172.16.50.183|loit-template-demo1-sentinel|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
-2020-12-14 09:33:09,235|172.16.50.183|loit-template-demo1-degrade-rules|DEFAULT_GROUP|f354e539-153c-4fc1-b10a-8db45279fce1|unknown|-1|pull|not-found|-1|127.0.0.1
